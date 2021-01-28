@@ -1,0 +1,12 @@
+C:\Users\game_\source\repos\playerDLL\playerDLL\bin\Debug\netstandard2.0\playerDLL.deps.json
+C:\Users\game_\source\repos\playerDLL\playerDLL\bin\Debug\netstandard2.0\playerDLL.dll
+C:\Users\game_\source\repos\playerDLL\playerDLL\bin\Debug\netstandard2.0\playerDLL.pdb
+C:\Users\game_\source\repos\playerDLL\playerDLL\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\game_\source\repos\playerDLL\playerDLL\bin\Debug\netstandard2.0\UnityEngine.xml
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.csprojAssemblyReference.cache
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.AssemblyInfoInputs.cache
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.AssemblyInfo.cs
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.csproj.CoreCompileInputs.cache
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.csproj.CopyComplete
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.dll
+C:\Users\game_\source\repos\playerDLL\playerDLL\obj\Debug\netstandard2.0\playerDLL.pdb
